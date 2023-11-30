@@ -1,3 +1,5 @@
+input*
+test*
 dist
 dist-*
 cabal-dev
