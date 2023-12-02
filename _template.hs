@@ -36,14 +36,14 @@ day = "0X"
 
 part1 :: IO ()
 part1 = do
-    testInput <- getInput "test" day
+    testInput <- getInput "input/test" day
     print (testInput)
-    --realInput <- getInput "input" day
+    --realInput <- getInput "input/input" day
     --print(realInput)
 
 part2 :: IO ()
 part2 = do
-    testInput <- getInput "test" day
+    testInput <- getInput "input/test" day
     print (testInput)
-    --realInput <- getInput "input" day
+    --realInput <- getInput "input/input" day
     --print(realInput)
